@@ -22,7 +22,7 @@ batteries: 18650 7,4V - 1,3A
 <br />
 wireless communication: HC-05
 <br />
-distance sensor - motors:/
+distance sensor - motors: 11 cm
 <br />
 weight:/
 <br />
