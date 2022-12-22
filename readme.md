@@ -10,21 +10,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: Arduino Leonardo
 <br />
-motors: 
+motors: Micro metal gearmotor HPCB 6V
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: 18650 7,4V - 1,3A
 <br />
-wireless communication:
+wireless communication: HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors:/
 <br />
-weight:
+weight:/
 <br />
-speed: 
+speed: 0.3
 <br />
